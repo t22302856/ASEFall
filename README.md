@@ -1,4 +1,4 @@
-# DAGAF
+# ASEFall
 
 Liu, K. C., Hung, K. H., Hsieh, C. Y., Huang, H. Y., Chan, C. T., & Tsao, Y. (2021). Deep Learning Based Signal Enhancement of Low-Resolution Accelerometer for Fall Detection Systems. IEEE Transactions on Cognitive and Developmental Systems.
 
@@ -25,7 +25,7 @@ In the last two decades, fall detection (FD) systems have been developed as a po
 
 ### Usage
 
-```
+
 
 ## Citation
 If you would like to use this package and function, please cite this paper:
