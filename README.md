@@ -3,7 +3,7 @@
 Liu, K. C., Hung, K. H., Hsieh, C. Y., Huang, H. Y., Chan, C. T., & Tsao, Y. (2021). Deep Learning Based Signal Enhancement of Low-Resolution Accelerometer for Fall Detection Systems. IEEE Transactions on Cognitive and Developmental Systems.
 
 
-DOI = https://doi.org/10.1016/j.bspc.2021.103104
+DOI = https://doi.org/10.1109/TCDS.2021.3116228
 
 ## Abstract
 
