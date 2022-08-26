@@ -35,4 +35,4 @@ If you would like to use this package and function, please cite this paper:
 ```
 
 ## Contact
-Feel free to contact Kai-Chun Liu (t22302856@gmail.com) or Yu-Der Lin (ydlin@fcu.edu.tw). Welcom any quesntion or discussion. 
+Feel free to contact Kai-Chun Liu (t22302856@gmail.com). Welcom any quesntion or discussion. 
